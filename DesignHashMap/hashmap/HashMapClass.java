@@ -1,4 +1,4 @@
-package com.javalecture;
+package com.hashmap;
 
 public class HashMapClass {
 
