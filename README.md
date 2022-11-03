@@ -1,2 +1,2 @@
 # iStudyJava
-# replica of Hash Map with pure Java code.
+### A replica of Hash Map with pure Java code.
