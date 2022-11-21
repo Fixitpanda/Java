@@ -1,0 +1,4 @@
+0000	student0@hackeru.co.il	Oren	M	student
+0001	student1@hackeru.co.il	Haim	M	lecturer
+0002	student2@hackeru.co.il	Shir	F	student
+0003	student3@hackeru.co.il	Ofir	F	secretary
