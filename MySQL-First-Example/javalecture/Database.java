@@ -7,7 +7,7 @@ public class Database {
 
     public static void execute() throws ClassNotFoundException {
 
-        try(Connection con = DriverManager.getConnection("jdbc:mysql://192.168.1.159:3306/books","root","139745698");
+        try(Connection con = DriverManager.getConnection("jdbc:mysql://192.168.1.159:3306/books","root","password");
             Statement stmt = con.createStatement())
         {
 
