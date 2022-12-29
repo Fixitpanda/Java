@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/pandi.iml" filepath="$PROJECT_DIR$/pandi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism and inheritance.iml" filepath="$PROJECT_DIR$/Polymorphism and inheritance.iml" />
     </modules>
   </component>
 </project>
